@@ -50,8 +50,6 @@ npm install
 npm start
 ```
 
-The frontend will run on [http://localhost:3000](http://localhost:3000) and the backend on [http://localhost:8000](http://localhost:8000).
-
 ## Environment Variables
 - **Backend:**
   - `MONGO_URI` - MongoDB connection string
@@ -65,9 +63,3 @@ The frontend will run on [http://localhost:3000](http://localhost:3000) and the 
 2. Start the frontend React app.
 3. Register a new user, log in, and start tracking your expenses!
 
-## Screenshots
-> _Add screenshots of your dashboard, charts, and forms here._
-
----
-
-**Made with ❤️ using MERN stack.** 
