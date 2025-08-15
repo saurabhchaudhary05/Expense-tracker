@@ -63,3 +63,12 @@ npm start
 2. Start the frontend React app.
 3. Register a new user, log in, and start tracking your expenses!
 
+<img width="2878" height="1508" alt="image" src="https://github.com/user-attachments/assets/dd7f4d04-4c62-4ab7-939f-e3414077d17d" />
+<img width="2859" height="1520" alt="image" src="https://github.com/user-attachments/assets/d7b0bcbc-8835-45ce-9b2a-bf7f8ef80bfa" />
+<img width="2863" height="1540" alt="image" src="https://github.com/user-attachments/assets/720b1668-b220-48e7-941c-44c5ed9df1ec" />
+<img width="2740" height="1539" alt="image" src="https://github.com/user-attachments/assets/29dd217c-ca09-4f59-9e83-0cfce30487ff" />
+<img width="2546" height="1496" alt="image" src="https://github.com/user-attachments/assets/f0f47e9f-cf76-4df7-ac31-0cd30571d46e" />
+<img width="2565" height="1343" alt="image" src="https://github.com/user-attachments/assets/0087c286-3a3b-459f-a4c3-69ca93f7b47e" />
+
+
+
